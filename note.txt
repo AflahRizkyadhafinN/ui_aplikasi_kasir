@@ -1,0 +1,23 @@
+Bagian belum selesai :
+1. use back key android
+2. Bug pada saat cancel scan, terinput -1
+3. Chart (Report Sales, Report Product)
+
+Fitur tambahan :
+1. Filter barang masuk/keluar pada page statistik penjualan
+2. Simpan data online dan offline
+
+Keterangan Page :
+1. Transaction (Admin, Petugas)
+2. List Product (Admin, Petugas)
+3. Product Report (Admin)
+4. History Product (Admin)
+5. Sales Report (Admin)
+6. Employee List (Admin)
+7. Customer List (Admin, Petugas)
+
+Lengkap : 
+1. List Product
+
+Permission :
+<uses-permission android:name="android.permission.INTERNET" />
